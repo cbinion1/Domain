@@ -1987,3 +1987,8 @@ code {
     margin-left: 15px;
   }
 }
+
+.logo {
+  margin-left: auto;
+  margin-right: auto;
+}
