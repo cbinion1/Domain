@@ -1,7 +1,7 @@
 <?php
 	if (isset($_POST["submit"])) {
 		$name = $_POST['name'];
-		$last_name = $_POST['last_name'];
+		$surname = $_POST['surname'];
 		$message = $_POST['message'];
 		$from = 'Demo Contact Form'; 
 		$to = 'binionctb@gmail.com'; 
